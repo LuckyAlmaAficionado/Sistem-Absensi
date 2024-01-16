@@ -1,4 +1,4 @@
-package com.luckyalma.absensi_aslab
+package com.luckyalma.aslab_absen
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,6 +1,6 @@
 {
-    "name": "absensi_aslab",
-    "short_name": "absensi_aslab",
+    "name": "aslab_absen",
+    "short_name": "aslab_absen",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

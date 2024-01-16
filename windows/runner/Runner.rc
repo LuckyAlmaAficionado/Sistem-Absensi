@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.luckyalma" "\0"
-            VALUE "FileDescription", "absensi_aslab" "\0"
+            VALUE "FileDescription", "aslab_absen" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "absensi_aslab" "\0"
+            VALUE "InternalName", "aslab_absen" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.luckyalma. All rights reserved." "\0"
-            VALUE "OriginalFilename", "absensi_aslab.exe" "\0"
-            VALUE "ProductName", "absensi_aslab" "\0"
+            VALUE "OriginalFilename", "aslab_absen.exe" "\0"
+            VALUE "ProductName", "aslab_absen" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
