@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "910537987100",
+    "firebase_url": "https://backend-aslab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "backend-aslab",
+    "storage_bucket": "backend-aslab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910537987100:android:0b7412e4b191fe60bcbbd9",
+        "android_client_info": {
+          "package_name": "com.firebase.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910537987100-nuuge133lnqjh726c71kupciovjtnffj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.myapplication",
+            "certificate_hash": "949465076ed075f2f877a2b2475cda530b6398c2"
+          }
+        },
+        {
+          "client_id": "910537987100-cvgrnptppflsfchf90154putbj16r2na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-E18E7EUZ_JmhdQxoObeDSBuw_1RACs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910537987100-91dlvu41blr11l7cq6lvq2p1flfkgsrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910537987100:android:88046df8f2aa15c6bcbbd9",
+        "android_client_info": {
+          "package_name": "com.luckyalma.aslab_absen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910537987100-cvgrnptppflsfchf90154putbj16r2na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-E18E7EUZ_JmhdQxoObeDSBuw_1RACs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910537987100-91dlvu41blr11l7cq6lvq2p1flfkgsrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910537987100:android:b52b09f980ca5b0fbcbbd9",
+        "android_client_info": {
+          "package_name": "com.luckyrigel.realtime_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910537987100-hfs9nfml5a86bqlpmjehf24bbbl523rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luckyrigel.realtime_chatapp",
+            "certificate_hash": "01cd995399e28e7c6f0dcd55d51e8e50317dfafd"
+          }
+        },
+        {
+          "client_id": "910537987100-cvgrnptppflsfchf90154putbj16r2na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-E18E7EUZ_JmhdQxoObeDSBuw_1RACs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910537987100-91dlvu41blr11l7cq6lvq2p1flfkgsrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

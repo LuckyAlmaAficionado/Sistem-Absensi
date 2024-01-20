@@ -2,7 +2,7 @@ name: aslab_absen
 version: 1.0.0+1
 publish_to: none
 description: A new Flutter project.
-environment: 
+environment:
   sdk: '>=3.2.4 <4.0.0'
 
 dependencies: 
@@ -13,6 +13,7 @@ dependencies:
   google_fonts: ^6.1.0
   gap: ^3.0.1
   dotted_border: ^2.1.0
+  firebase_core: ^2.24.2
 
 dev_dependencies: 
   flutter_lints: ^2.0.0
